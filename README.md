@@ -1,5 +1,9 @@
 # 💫 About Me
-
+<p align="center">
+  <a href="https://github.com/kuum-oss">
+   <img src="https://readme-typing-svg.demolab.com/?lines=QA%20Engineer;Data%20Explorer;Bug%20Hunter%20Extraordinaire;Always%20Learning%20New%20Things;%20A%20Bit%20of%20a%20Stalker&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
+</a>
+</p>
 Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP, and software engineering projects.  
 I focus on **learning, building, and analyzing systems** while keeping everything ethical and educational.
 
@@ -76,6 +80,7 @@ I focus on **learning, building, and analyzing systems** while keeping everythin
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuum-oss&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=Kuum-oss&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuum-oss&layout=compact&theme=default" alt="Top Languages" />
 </div>
