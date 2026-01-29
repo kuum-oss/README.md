@@ -1,4 +1,3 @@
-# 💫 About Me
 
 <div align="center">
 
@@ -39,26 +38,47 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 
 ## 🛠 TECH STACK & ARSENAL
 
-### 📝 Languages & Core
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,js,ts" />
+
+
+### UI
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,js,ts,cmake" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" />
 </p>
 
-### 🌐 Web / UI & 🗄 Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mysql,msql" />
-</p>
+### Web & DB (secondary)
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mysql" />
 
-### 🧪 QA Tools & Environment
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux,vscode,idea" />
-</p>
+
+### QA / Perf / DevOps
+<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux,idea,vscode" />
+
 
 ---
-🔬 LATEST INVESTIGATIONS (Featured Projects)
-[someone] — Desktop Java orchestrator built on Clean Architecture. Features: Tika metadata extraction, Google Books API integration, and robustness against filesystem DoS (cyclic links).
+## 🔬 Featured Projects
 
-[Kisit_Problem] — A k6-driven research repo analyzing L7 vulnerabilities in CMS systems. Focused on Resource Exhaustion and SLA Degradation patterns.
+### 1️⃣ **someone**
+Desktop Java library organizer on **Clean Architecture**.  
+
+- Tika-based metadata extraction  
+- Google Books API integration  
+- Multi-user library support  
+- Drag & Drop, Search & Filter, Theme & Language support  
+- Defensive design against filesystem DoS (cyclic links)
+
+**Repo:** [someone](https://github.com/kuum-oss/someone)
+
+---
+
+### 2️⃣ **Kisit_Problem**
+Educational **load-testing & stress analysis** repo using **k6**:
+
+- Focused on L7 CMS resource exhaustion  
+- SLA degradation scenarios  
+- Educational only; no exploits
+
+**Repo:** [Kisit_Problem](https://github.com/kuum-oss/Kisit_Problem)
 
 ---
 
@@ -75,7 +95,10 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 ---
 
 
-⚡ MISSION STATEMENT
-"Engineering is not only about how it works, but how it fails." I deconstruct complex systems to find their breaking points. Every crash is a lesson; every bug report is a step toward unshakeable stability.
+## ⚡ Mission Statement
+
+> "Engineering is not only about how it works, but how it fails."  
+> Every bug, crash, or stress-test is a lesson.  
+> I build robust software and learn from every breaking point.
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kuum-oss.visitor-badge&color=gray" /> </p>
