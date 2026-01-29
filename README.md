@@ -55,6 +55,12 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 </p>
 
 ---
+🔬 LATEST INVESTIGATIONS (Featured Projects)
+[someone] — Desktop Java orchestrator built on Clean Architecture. Features: Tika metadata extraction, Google Books API integration, and robustness against filesystem DoS (cyclic links).
+
+[Kisit_Problem] — A k6-driven research repo analyzing L7 vulnerabilities in CMS systems. Focused on Resource Exhaustion and SLA Degradation patterns.
+
+---
 
 ## 📊 ANALYTICS & ACTIVITY
 
@@ -68,10 +74,8 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 
 ---
 
-## ⚡ FUN FACT
-> **[ENCRYPTED]**: I enjoy deconstructing complex systems to find their breaking points. I write detailed bug reports as if they were mission briefings — always ethical, always precise.
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kuum-oss.visitor-badge&color=gray" />
-</p>
+⚡ MISSION STATEMENT
+"Engineering is not only about how it works, but how it fails." I deconstruct complex systems to find their breaking points. Every crash is a lesson; every bug report is a step toward unshakeable stability.
 
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kuum-oss.visitor-badge&color=gray" /> </p>
