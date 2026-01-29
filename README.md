@@ -1,9 +1,18 @@
 # 💫 About Me
-<p align="center">
-  <a href="https://github.com/kuum-oss">
-   <img src="https://readme-typing-svg.demolab.com/?lines=QA%20Engineer;Data%20Explorer;Bug%20Hunter%20Extraordinaire;Always%20Learning%20New%20Things;%20A%20Bit%20of%20a%20Stalker&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
-</a>
-</p>
+<div align="center">
+
+<pre>
+███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
+██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
+█████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝ 
+██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝  
+██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║   
+╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝   
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=QA+Engineer;Data+Explorer;Bug+Hunter;Always+Learning;+A+Bit+of+a+Stalker&font=Fira+Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
+
+</div>
 Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP, and software engineering projects.  
 I focus on **learning, building, and analyzing systems** while keeping everything ethical and educational.
 
