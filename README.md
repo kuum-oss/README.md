@@ -67,7 +67,7 @@ Desktop Java library organizer on **Clean Architecture**.
 - Drag & Drop, Search & Filter, Theme & Language support  
 - Defensive design against filesystem DoS (cyclic links)
 
-**Repo:** [someone](https://github.com/kuum-oss/someone)
+**Repo:** [someone](https://github.com/kuum-oss/someone_V2)
 
 ---
 
