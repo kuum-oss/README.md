@@ -43,7 +43,7 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,js,ts" />
 </p>
 <p align="center">
-  Основные языки программирования и ядро проектов.
+  Primary programming languages and core technologies.
 </p>
 
 ### UI
@@ -51,7 +51,7 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" />
 </p>
 <p align="center">
-  Фронтенд технологии и UI-библиотеки для веб-интерфейсов.
+  Frontend technologies and UI libraries for web interfaces.
 </p>
 
 ### Web & DB (secondary)
@@ -59,23 +59,24 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mysql" />
 </p>
 <p align="center">
-  Веб-фреймворки и базы данных для серверной и клиентской части.
+  Web frameworks and databases for backend and frontend development.
 </p>
 
 ### 💻 IDE / Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,rider,clion,webstorm,pycharm&theme=dark" alt="IDE Icons" />
+  <img src="https://skillicons.dev/icons?i=idea,rider,clion,webstorm,pycharm,vscode,visualstudio&theme=dark" alt="IDE Icons" />
 </p>
 <p align="center">
-  Интегрированные среды разработки для различных языков и проектов.
+  Integrated development environments for multiple languages and projects.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux,vscode&theme=dark" alt="QA/DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux&theme=dark" alt="QA/DevOps Tools" />
 </p>
 <p align="center">
-  Инструменты QA, DevOps и управления проектами.
+  QA, DevOps, and project management tools.
 </p>
+
 
 
 
