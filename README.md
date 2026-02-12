@@ -39,20 +39,45 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 ## 🛠 TECH STACK & ARSENAL
 
 ### Languages & Core
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,js,ts" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,js,ts" />
+</p>
+<p align="center">
+  Основные языки программирования и ядро проектов.
+</p>
 
 ### UI
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" />
+</p>
+<p align="center">
+  Фронтенд технологии и UI-библиотеки для веб-интерфейсов.
 </p>
 
 ### Web & DB (secondary)
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mysql" />
+</p>
+<p align="center">
+  Веб-фреймворки и базы данных для серверной и клиентской части.
+</p>
+
+### 💻 IDE / Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,rider,clion,webstorm,pycharm&theme=dark" alt="IDE Icons" />
+</p>
+<p align="center">
+  Интегрированные среды разработки для различных языков и проектов.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux,vscode&theme=dark" alt="QA/DevOps Tools" />
+</p>
+<p align="center">
+  Инструменты QA, DevOps и управления проектами.
+</p>
 
 
-### QA / Perf / DevOps
-<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux,idea,vscode" />
 
 
 ---
