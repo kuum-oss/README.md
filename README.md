@@ -35,34 +35,34 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 * 📫 **Secure Channel:** [GitHub Contact](https://github.com/kuum-oss)
 
 ---
-
 ## 🛠 TECH STACK & ARSENAL
 
-### Languages & Core
+### ☕ Languages & Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,cs,js,ts&theme=dark" />
 </p>
 <p align="center">
   Primary programming languages and core technologies.
 </p>
 
-### UI
+### 🎨 UI & Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts&theme=dark" />
 </p>
 <p align="center">
   Frontend technologies and UI libraries for web interfaces.
 </p>
 
-### Web & DB (secondary)
+### 🌐 Web & DB (Secondary)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postgres,sqlite&theme=dark" />
 </p>
 <p align="center">
   Web frameworks and databases for backend and frontend development.
 </p>
 
-### 💻 IDE / Tools
+### 💻 IDE & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,rider,clion,webstorm,pycharm,vscode,visualstudio&theme=dark" alt="IDE Icons" />
 </p>
@@ -70,13 +70,14 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
   Integrated development environments for multiple languages and projects.
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux&theme=dark" alt="QA/DevOps Tools" />
-</p>
-<p align="center">
-  QA, DevOps, and project management tools.
-</p>
+<br />
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,maven,docker,linux,bash,postman&theme=dark" alt="QA/DevOps Tools" />
+</p>
+<p align="center">
+  QA, DevOps, Shell Scripting, Code Quality, and API testing tools.
+</p>
 
 
 
@@ -97,14 +98,14 @@ Desktop Java library organizer on **Clean Architecture**.
 
 ---
 
-### 2️⃣ **Kisit_Problem**
-Educational **load-testing & stress analysis** repo using **k6**:
+### 2️⃣ **KotDistributed Trading Engine**
+High-throughput distributed trading engine built with Kotlin:
 
-- Focused on L7 CMS resource exhaustion  
-- SLA degradation scenarios  
-- Educational only; no exploits
+- Event Sourcing, CQRS, and Actor Model architecture
+- Lock-free matching via Coroutines & Channels
+- Fault-tolerant multi-node cluster simulation
 
-**Repo:** [Kisit_Problem](https://github.com/kuum-oss/Kisit_Problem)
+**Repo:** [Kot](https://github.com/kuum-oss/Kot)
 
 ---
 
