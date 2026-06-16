@@ -32,7 +32,7 @@ Hi! I’m **kuum-oss**, a passionate Java developer exploring desktop apps, OOP,
 * 🌱 **Skill Infiltration:** Advanced Java, Kotlin, Python, and testing frameworks.
 * 👯 **Collaboration:** Open for open-source intelligence and educational clusters.
 * 🤔 **Investigation:** Performance, SRE, and high-load system reliability.
-* 📫 **Secure Channel:** [GitHub Contact](https://github.com/kuum-oss)
+* 📫 **My website:** [Website](https://kuum-oss.github.io/kuum-oss_web/)
 
 ---
 ## 🛠 TECH STACK & ARSENAL
