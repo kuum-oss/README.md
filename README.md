@@ -106,7 +106,7 @@ I'm **kuum-oss** — Java backend developer. I build microservices and stress-te
 
 ---
 
-### 2️⃣ [fou](https://kuum-oss.github.io/kuum-oss_web/fou.html) — event-driven notification microservice
+### 2️⃣ [fou](https://github.com/kuum-oss/fou) — event-driven notification microservice
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -128,7 +128,7 @@ DLQ · exponential backoff · idempotent consumer · RFC 7807 · 5 Testcontainer
 
 ---
 
-### 3️⃣ [sol](https://kuum-oss.github.io/kuum-oss_web/sol.html) — performance engineering system
+### 3️⃣ [sol](https://github.com/kuum-oss/sol) — performance engineering system
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -160,7 +160,7 @@ Event Sourcing · CQRS · Actor Model · lock-free matching · Leader Election �
 
 ---
 
-### 5️⃣ [someone\_V2](https://kuum-oss.github.io/kuum-oss_web/someone.html) — full-stack library organizer
+### 5️⃣ [someone\_V2](https://github.com/kuum-oss/someone_V2) — full-stack library organizer
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
