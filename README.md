@@ -106,7 +106,27 @@ I'm **kuum-oss** — Java backend developer. I build microservices and stress-te
 
 ---
 
-### 2️⃣ [fou](https://github.com/kuum-oss/fou) — event-driven notification microservice
+### 2️⃣ [Orbit](https://github.com/kuum-oss/orbit) — distributed IoT fleet monitoring platform *(in development)*
+
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka_KRaft-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda_7-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_%2F_LocalStack-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+Telemetry ingest via WebFlux + bidirectional gRPC · Kafka anomaly pipeline · Camunda BPMN maintenance workflow · PostgreSQL tickets · LocalStack S3/SQS/SNS · Terraform IaC · Prometheus + Grafana
+
+---
+
+### 3️⃣ [fou](https://github.com/kuum-oss/fou) — event-driven notification microservice
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -128,7 +148,7 @@ DLQ · exponential backoff · idempotent consumer · RFC 7807 · 5 Testcontainer
 
 ---
 
-### 3️⃣ [sol](https://github.com/kuum-oss/sol) — performance engineering system
+### 4️⃣ [sol](https://github.com/kuum-oss/sol) — performance engineering system
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -149,7 +169,7 @@ DLQ · exponential backoff · idempotent consumer · RFC 7807 · 5 Testcontainer
 
 ---
 
-### 4️⃣ [Kot](https://github.com/kuum-oss/Kot) — distributed trading engine
+### 5️⃣ [Kot](https://github.com/kuum-oss/Kot) — distributed trading engine
 
 ![Kotlin](https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -160,7 +180,7 @@ Event Sourcing · CQRS · Actor Model · lock-free matching · Leader Election �
 
 ---
 
-### 5️⃣ [someone\_V2](https://github.com/kuum-oss/someone_V2) — full-stack library organizer
+### 6️⃣ [someone\_V2](https://github.com/kuum-oss/someone_V2) — full-stack library organizer
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
