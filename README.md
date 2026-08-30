@@ -84,6 +84,10 @@ I'm **kuum-oss** — Java backend developer. I build microservices and stress-te
 ---
 ## 🔬 Featured Projects
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ONE_MACHINE._DOCKER._JAVA_21%2F25._ENTIRE_FLEET_UNDER_CONTROL.-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d0d0d" />
+</p>
+
 ### 1️⃣ [Vault](https://github.com/kuum-oss/Vault) — fintech microservices platform *(in development)*
 
 ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
