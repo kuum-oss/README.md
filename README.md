@@ -202,6 +202,18 @@ Swing + FreeMarker · Clean Architecture · Apache Tika · Google Books API · Q
 
 ---
 
+⚙️ What I Build
+
+Distributed Java services: Kafka, RabbitMQ, gRPC, REST/SSE
+
+Production-minded systems: retries, DLQ, idempotency, observability, fault injection
+
+Business workflows: BPMN orchestration, state machines, event-driven processing
+
+Reproducible environments: Docker Compose, Testcontainers, Terraform, LocalStack
+
+---
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuum-oss&theme=tokyonight" />
@@ -219,4 +231,16 @@ Swing + FreeMarker · Clean Architecture · Apache Tika · Google Books API · Q
 > Every bug, crash, or stress-test is a lesson.  
 > I build robust software and learn from every breaking point.
 
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kuum-oss.visitor-badge&color=gray" /> </p>
+🤝 Let’s Build Something Reliable
+
+I’m looking for a remote/office Java Backend Engineer role where reliability, scalability, and system design matter.
+
+<p align="center">
+  <a href="https://kuum-oss.github.io/kuum-oss_web/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-View_my_work-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kuum-oss.visitor-badge&color=gray" />
+</p>
